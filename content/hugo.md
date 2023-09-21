@@ -6,11 +6,11 @@ draft = false
 
 使用[hugo](https://gohugo.io)搭建博客并搭配[xmin](https://github.com/yihui/hugo-xmin)主题。
 
-## hugo安装与初始化
+## 安装与初始化
 
 ```shell
-brew install hugo            # 安装
-hugo new site /path/to/site  # 初始化
+brew install hugo            # 安装 hugo
+hugo new site /path/to/site  # 初始化 hugo 博客文件夹
 cd /path/to/site             # 切换目录
 
 git init
