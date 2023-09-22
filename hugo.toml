@@ -19,3 +19,8 @@ weight = 3
 name = "Links"
 url = "/links/"
 weight = 4
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; [BYTX](https://BYTX-zyh.github.io)  2022 -- {Year} | [Github](https://github.com/BYTX-zyh)"
+    GithubEdit = "https://github.com/BYTX-zyh/BYTX-zyh.github.io/edit/master/content/"
