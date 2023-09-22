@@ -2,6 +2,8 @@
 title = 'Hugo'
 date = 2023-09-20T20:07:38+08:00
 draft = false
+categories = "test"
+toc = true
 +++
 
 使用[hugo](https://gohugo.io)搭建博客并搭配[xmin](https://github.com/yihui/hugo-xmin)主题。
