@@ -2,7 +2,8 @@
 title = 'Hugo'
 date = 2023-09-20T20:07:38+08:00
 draft = false
-categories = "test"
+categories = ["test"]
+tags = ["test","function"]
 toc = true
 +++
 
