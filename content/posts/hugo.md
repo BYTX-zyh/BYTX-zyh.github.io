@@ -1,15 +1,13 @@
 +++
-title = 'Hugo'
+title = 'Hugo安装'
 date = 2023-09-20T20:07:38+08:00
 draft = false
-categories = ["test"]
-tags = ["test","function"]
+categories = ["博客"]
+tags = ["博客"]
 toc = true
 +++
 
-使用[hugo](https://gohugo.io)搭建博客并搭配[xmin](https://github.com/yihui/hugo-xmin)主题。
-
-可以查看xmin的[demo](https://xmin.yihui.org)预览效果。
+使用[hugo](https://gohugo.io)搭建博客并搭配[xmin](https://github.com/yihui/hugo-xmin)主题，可以查看xmin的[demo](https://xmin.yihui.org)。
 
 ## 安装与初始化
 
@@ -34,8 +32,10 @@ hugo server -D
 
 ## 创建页面
 
-hugo new post/first.md 新文章
-hugo new about.md 新页面
+```shell{linenos=true}
+hugo new post/first.md #新文章
+hugo new about.md      #新页面
+```
 
 ## GitHub-pages 自动部署
 

@@ -1,8 +1,7 @@
 baseURL = 'https://BYTX-zyh.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '白衣踏雪'
 theme = 'xmin'
-disqusShortname =  "BYTX"
 [[menu.main]]
 name = "Home"
 url = "/"
@@ -24,3 +23,9 @@ weight = 4
     description = "A website built through Hugo and blogdown."
     footer = "&copy; [BYTX](https://BYTX-zyh.github.io)  2022 -- {Year} | [Github](https://github.com/BYTX-zyh)"
     GithubEdit = "https://github.com/BYTX-zyh/BYTX-zyh.github.io/edit/master/content/"
+
+[outputs]
+home = ['html', 'rss']
+section = ['html', 'rss']
+taxonomy = ['html']
+term = ['html']
