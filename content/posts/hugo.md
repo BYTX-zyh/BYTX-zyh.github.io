@@ -32,7 +32,7 @@ hugo server -D
 
 ## 创建页面
 
-```shell{linenos=true}
+```shell
 hugo new post/first.md #新文章
 hugo new about.md      #新页面
 ```

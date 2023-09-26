@@ -20,12 +20,39 @@ url = "/links/"
 weight = 4
 
 [params]
-    description = "A website built through Hugo and blogdown."
-    footer = "&copy; [BYTX](https://BYTX-zyh.github.io)  2022 -- {Year} | [Github](https://github.com/BYTX-zyh)"
-    GithubEdit = "https://github.com/BYTX-zyh/BYTX-zyh.github.io/edit/master/content/"
-
+syntaxHighlighter = "highlight.js"
+description = "A website built through Hugo and blogdown."
+footer = "&copy; [BYTX](https://BYTX-zyh.github.io)  2022 -- {Year} | [Github](https://github.com/BYTX-zyh)"
+GithubEdit = "https://github.com/BYTX-zyh/BYTX-zyh.github.io/edit/master/content/"
 [outputs]
 home = ['html', 'rss']
 section = ['html', 'rss']
 taxonomy = ['html']
 term = ['html']
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+    unsafe = true ## 允许 Markdown 内嵌 html 代码
+#[markup.highlight]
+#    anchorLineNos = false
+#    codeFences = true
+#    guessSyntax = false
+#    hl_Lines = ''
+#    hl_inline = false
+#    lineAnchors = ''
+#    lineNoStart = 1
+#    lineNos = true
+#    lineNumbersInTable = true
+#    noClasses = true
+#    noHl = true
+#    style = 'nord'
+#    tabWidth = 2
+
+
+copyright = "2022 Justin James All rights reserved"
+languageCode = "zh-cn"
+
+[Author]
+name = "BYTX-zyh"
+email = "bytxzyh@gmail.com"
