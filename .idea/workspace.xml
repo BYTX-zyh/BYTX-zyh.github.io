@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02fd4987-50bf-4a11-b1f6-424b067e6b10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/xmin/layouts/shortcodes/ghcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/theme.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,15 +21,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/xmin" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
