@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02fd4987-50bf-4a11-b1f6-424b067e6b10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/xmin/layouts/shortcodes/ghcode.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/theme.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/hugo主题开发.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/hugo主题开发.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/static/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/css/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,7 @@
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/xmin" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,6 +61,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/xmin/layouts/partials" />
       <recent name="$PROJECT_DIR$/themes/xmin/static/js" />
       <recent name="$PROJECT_DIR$/content/posts" />
     </key>
