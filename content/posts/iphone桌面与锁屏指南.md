@@ -1,9 +1,9 @@
 +++
 title = 'Iphone桌面与锁屏指南'
 date = 2023-10-05T22:33:16+08:00
-draft = false
+draft = true
 categories = ["数字生活"]
-tags = ["数字生活","ios","watch"]
+tags = ["数字生活","ios"]
 toc = true
 +++
 

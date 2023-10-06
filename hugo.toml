@@ -28,6 +28,12 @@ description = "A website built through Hugo and blogdown."
 footer = "&copy; [BYTX](https://BYTX-zyh.github.io)  2022 -- {Year} | [Github](https://github.com/BYTX-zyh) | [Rss](https://bytx-zyh.github.io//index.xml)"
 GithubEdit = "https://github.com/BYTX-zyh/BYTX-zyh.github.io/edit/master/content/"
 
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
 
 [outputs]
     home = ['html', 'rss']

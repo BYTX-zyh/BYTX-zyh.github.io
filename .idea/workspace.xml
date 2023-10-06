@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="02fd4987-50bf-4a11-b1f6-424b067e6b10" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/iphone桌面与锁屏指南.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/iphone桌面与锁屏指南.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/字体推荐.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/字体推荐.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/static/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/css/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +26,7 @@
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/xmin" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,7 +52,7 @@
     "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/bytx/code/solo/BYTX-zyh.github.io",
+    "last_opened_file_path": "/Users/bytx/code/solo/BYTX-zyh.github.io/themes/xmin/static/fonts",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,7 +61,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/xmin/static/fonts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/xmin/assets" />
       <recent name="$PROJECT_DIR$/themes/xmin/layouts/partials" />
       <recent name="$PROJECT_DIR$/themes/xmin/static/js" />
       <recent name="$PROJECT_DIR$/content/posts" />
