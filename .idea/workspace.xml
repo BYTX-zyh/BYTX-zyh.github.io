@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="02fd4987-50bf-4a11-b1f6-424b067e6b10" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/iphone桌面与锁屏指南.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/iphone桌面与锁屏指南.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/字体推荐.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/字体推荐.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/static/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/head_custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/head_custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/static/css/copy-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/css/copy-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/static/js/copy-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/js/copy-button.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
