@@ -14,12 +14,12 @@ name = "Categories"
 url = "/categories/"
 weight = 2
 [[menu.main]]
-name = "About"
-url = "/about/"
+name = "Tags"
+url = "/tags/"
 weight = 3
 [[menu.main]]
-name = "Links"
-url = "/links/"
+name = "About"
+url = "/About/"
 weight = 4
 
 [params]
