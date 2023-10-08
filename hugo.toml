@@ -21,13 +21,17 @@ weight = 3
 name = "About"
 url = "/About/"
 weight = 4
+[[menu.main]]
+name="Search"
+url="/search"
+weight=5
 
 [params]
 syntaxHighlighter = "highlight.js"
-description = "A website built through Hugo and blogdown."
+description = "A website built through Hugo."
 footer = "&copy; [BYTX](https://BYTX-zyh.github.io)  2022 -- {Year} | [Github](https://github.com/BYTX-zyh) | [Rss](https://bytx-zyh.github.io//index.xml)"
 GithubEdit = "https://github.com/BYTX-zyh/BYTX-zyh.github.io/edit/master/content/"
-
+author = "testau"
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":git", "date", "publishDate"]
@@ -36,7 +40,7 @@ expiryDate = ["expiryDate"]
 
 
 [outputs]
-    home = ['html', 'rss']
+    home = ['html', 'rss','json']
     section = ['html', 'rss']
     taxonomy = ['html']
     term = ['html']
