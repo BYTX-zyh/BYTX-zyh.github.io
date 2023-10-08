@@ -1,8 +1,7 @@
----
-title: Search
----
 
-The searching is performed via fuse.js. For the search keywords, white spaces act as the `AND` operator, and `|` acts as the `OR` operator. To match an exact phrase, double quote it. For example, `R Markdown` matches articles that contain both `R` and `Markdown`, `R | Markdown` matches articles that contain `R` or `Markdown`, and `"R Markdown"` matches articles that contain the whole phrase `R Markdown`.
+使用空格表示`AND`运算，`|` 表示 `OR`运算。例如`R Markdown` 匹配同时包含`R`和`Markdown`的内容，而`R|Markdown`表示包含`R`或`Markdown`的内容，以及`"R Markdown"`表示完全匹配`R Markdown`的内容。 
+
+
 
 <style type="text/css">
 .main {

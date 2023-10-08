@@ -1,5 +1,5 @@
 baseURL = 'https://BYTX-zyh.github.io/'
-languageCode = 'zh'
+languageCode = "zh-cn"
 title = '白衣踏雪'
 theme = 'xmin'
 
@@ -31,12 +31,14 @@ syntaxHighlighter = "highlight.js"
 description = "A website built through Hugo."
 footer = "&copy; [BYTX](https://BYTX-zyh.github.io)  2022 -- {Year} | [Github](https://github.com/BYTX-zyh) | [Rss](https://bytx-zyh.github.io//index.xml)"
 GithubEdit = "https://github.com/BYTX-zyh/BYTX-zyh.github.io/edit/master/content/"
-author = "testau"
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
+useDarkMode = true
+highlightThemeLight = "noborder_light"   # 亮色模式下的高亮主题
+highlightThemeDark = "dark_dimmed"     # 暗色模式下的高亮主题
 
 
 [outputs]
@@ -49,24 +51,10 @@ expiryDate = ["expiryDate"]
 [markup.goldmark]
 [markup.goldmark.renderer]
     unsafe = true ## 允许 Markdown 内嵌 html 代码
-#[markup.highlight]
-#    anchorLineNos = false
-#    codeFences = true
-#    guessSyntax = false
-#    hl_Lines = ''
-#    hl_inline = false
-#    lineAnchors = ''
-#    lineNoStart = 1
-#    lineNos = true
-#    lineNumbersInTable = true
-#    noClasses = true
-#    noHl = true
-#    style = 'nord'`
-#    tabWidth = 2
+
 
 
 copyright = "2023 BYTX All rights reserved"
-languageCode = "zh-cn"
 
 [Author]
 name = "BYTX-zyh"

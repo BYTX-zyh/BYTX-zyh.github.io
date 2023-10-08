@@ -6,19 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="02fd4987-50bf-4a11-b1f6-424b067e6b10" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/hugo主题开发.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/hugo主题开发.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/search.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/search.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/xmin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/archetypes/default.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/head_custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/head_custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/toc_bottom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/toc_top.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/foot_custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/foot_custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/giscus.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/giscus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/menu_extra.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/xmin/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/static/js/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/js/function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/theme.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +26,8 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="tsconfig.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -76,6 +72,7 @@
       <recent name="$PROJECT_DIR$/themes/xmin/static/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/xmin/content" />
       <recent name="$PROJECT_DIR$/themes/xmin/assets" />
       <recent name="$PROJECT_DIR$/themes/xmin/layouts/partials" />
       <recent name="$PROJECT_DIR$/themes/xmin/static/js" />
