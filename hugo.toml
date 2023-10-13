@@ -36,7 +36,6 @@ date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
-useDarkMode = true
 highlightThemeLight = "noborder_light"   # 亮色模式下的高亮主题
 highlightThemeDark = "dark_dimmed"     # 暗色模式下的高亮主题
 
@@ -59,3 +58,4 @@ copyright = "2023 BYTX All rights reserved"
 [Author]
 name = "BYTX-zyh"
 email = "bytxzyh@gmail.com"
+
