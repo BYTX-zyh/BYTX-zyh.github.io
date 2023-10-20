@@ -8,3 +8,5 @@ toc = true
 +++
 
 这里是 白衣踏雪（bytx），你可以叫我白衣。
+
+可以通过<a href="mailto:bytxzyh@gmail.com">邮件</a>联系到我。

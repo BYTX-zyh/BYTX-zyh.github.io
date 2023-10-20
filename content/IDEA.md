@@ -1,0 +1,14 @@
++++
+title = 'IDEA'
+date = 2023-10-20T10:07:35+08:00
+draft = false
+categories = []
+tags = []
+toc = true
++++
+
+Jetbrains 全家桶指南
+
+## debug
+
+[Run to Cursor]({{< ref "posts/IDEA/RuntoCursor.md" >}})

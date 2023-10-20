@@ -25,6 +25,9 @@ weight = 4
 name="Search"
 url="/search"
 weight=5
+[[menu.main]]
+name="IDEA"
+url="/IDEA"
 
 [params]
 syntaxHighlighter = "highlight.js"
@@ -36,8 +39,6 @@ date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
-highlightThemeLight = "noborder_light"   # 亮色模式下的高亮主题
-highlightThemeDark = "dark_dimmed"     # 暗色模式下的高亮主题
 
 
 [outputs]
@@ -50,8 +51,6 @@ highlightThemeDark = "dark_dimmed"     # 暗色模式下的高亮主题
 [markup.goldmark]
 [markup.goldmark.renderer]
     unsafe = true ## 允许 Markdown 内嵌 html 代码
-
-
 
 copyright = "2023 BYTX All rights reserved"
 
