@@ -22,12 +22,12 @@ name = "About"
 url = "/About/"
 weight = 4
 [[menu.main]]
-name="Search"
-url="/search"
+name="专题"
+url="/专题"
 weight=5
 [[menu.main]]
-name="IDEA"
-url="/IDEA"
+name="Search"
+url="/search"
 
 [params]
 syntaxHighlighter = "highlight.js"
