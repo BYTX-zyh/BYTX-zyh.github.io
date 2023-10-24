@@ -54,7 +54,6 @@ RSSHUB的官方文档为：[https://docs.rsshub.app](https://docs.rsshub.app/)�
 
 在GitHub [fork](https://github.com/DIYgod/RSSHub/fork) https://github.com/DIYgod/RSSHub 仓库到当前GitHub账户，而后前往Vercel主页，导入RSSHUB仓库（需要GitHub授予访问权限）并进行部署。
 
-{{< details summary="图片步骤" >}}
 
 ![project.png](project.png)
 
@@ -66,7 +65,6 @@ RSSHUB的官方文档为：[https://docs.rsshub.app](https://docs.rsshub.app/)�
 
 ![result.png](result.png)
 
-{{< /details >}}
 
 ### 查看部署结果
 

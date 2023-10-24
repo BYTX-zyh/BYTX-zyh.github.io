@@ -2,8 +2,8 @@
 title = 'Hugo安装'
 date = 2023-09-20T20:07:38+08:00
 draft = false
-categories = ["博客"]
-tags = ["博客"]
+categories = [] 
+tags = ["hugo"]
 toc = true
 +++
 

@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02fd4987-50bf-4a11-b1f6-424b067e6b10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/rss订阅/images/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/xmin使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/xmin使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/rss订阅.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/hugo.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/hugo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/hugo使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/rss订阅/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/rss订阅/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/xmin" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/partials/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/shortcodes/ghcode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/static/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/static/js/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/js/image.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xmin/static/js/kbd.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/static/js/kbd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xmin/layouts/_default/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xmin/layouts/_default/terms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,37 +45,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bytx/code/solo/BYTX-zyh.github.io/themes/xmin/static/fonts&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/bytx/code/solo/BYTX-zyh.github.io/themes/xmin/layouts/partials",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "two.files.diff.last.used.file": "/Users/bytx/code/solo/BYTX-zyh.github.io/themes/hugo-paged/layouts/partials/header.html"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/xmin/layouts/partials" />
       <recent name="$PROJECT_DIR$/themes/xmin/static/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/posts/IDEA" />
       <recent name="$PROJECT_DIR$/content/posts/rss订阅/images" />
       <recent name="$PROJECT_DIR$/content/posts/rss订阅" />
       <recent name="$PROJECT_DIR$/content/posts" />
       <recent name="$PROJECT_DIR$/themes/xmin/content" />
-      <recent name="$PROJECT_DIR$/themes/xmin/assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
